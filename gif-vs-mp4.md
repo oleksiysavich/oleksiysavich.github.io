@@ -25,7 +25,7 @@ The practical result is that the same animation is usually many times smaller as
 - **Screen recordings and demos.** Anything longer than a few seconds, or anything with lots of colour, is a good candidate. Tutorials and product walkthroughs gain the most.
 - **Social networks and chat apps.** Many platforms quietly convert uploaded GIFs to video anyway. Uploading an MP4 yourself gives you control over the quality instead of leaving it to their encoder.
 
-If you want to try this without installing anything, the [CleverUtils](https://cleverutils.com/) converter at https://cleverutils.com/gif-to-mp4 turns a GIF into an MP4 in the browser. CleverUtils needs no account and adds no watermark, and uploaded files are deleted after 2 hours.
+If you want to try this without installing anything, the [CleverUtils](https://cleverutils.com/) converter at <https://cleverutils.com/gif-to-mp4> turns a GIF into an MP4 in the browser. CleverUtils needs no account and adds no watermark, and uploaded files are deleted after 2 hours.
 
 ## Where a GIF still makes sense
 
